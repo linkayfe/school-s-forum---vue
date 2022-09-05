@@ -39,3 +39,21 @@
 | UpdatePass       | 修改密码的组件                                 |
 | UpdatePlateModal | 修改版块的组件                                 |
 
+##### 部分页面展示：
+
+###### <u>首页展示</u>
+
+![](/egpng/home.png)
+
+###### <u>帖子内容展示</u>
+
+![](/egpng/postcontent.png)
+
+###### <u>发表帖子展示</u>
+
+![](/egpng/postcontent.png)
+
+###### <u>修改版块模态框展示</u>
+
+![](/egpng/updatePlate.png)
+
